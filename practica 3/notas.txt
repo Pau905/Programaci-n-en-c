@@ -1,0 +1,4 @@
+Alumno1: 2
+Alumno2: 3
+Alumno3: 10
+La nota media de los alumnos es: 5
