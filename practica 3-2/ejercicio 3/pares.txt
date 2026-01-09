@@ -1,0 +1,2 @@
+Ambos números son pares (2 y 2).
+El resultado de multiplicarlos es: 4
