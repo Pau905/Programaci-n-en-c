@@ -1,0 +1,2 @@
+Ambos números son pares (4 y 2).
+El resultado de multiplicarlos es: 8

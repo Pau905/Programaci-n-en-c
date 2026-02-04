@@ -1,0 +1,9 @@
+Cuenta del bar:
+-----------------------------
+Bocadillos de chorizo: 35 x 1.10 € = 38.50 €
+Bocadillos de atún:    453 x 1.40 € = 634.20 €
+Aguas:                 45 x 0.50 € = 22.50 €
+Colas:                 435 x 0.75 € = 326.25 €
+Naranjas:              45 x 0.70 € = 31.50 €
+-----------------------------
+TOTAL: 1052.95 €
