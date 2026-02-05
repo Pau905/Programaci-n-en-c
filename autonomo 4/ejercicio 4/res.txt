@@ -1,0 +1,4 @@
+---Resultado---
+	Las centenas son un numero par: 4
+	Las decenas son un numero impar: 9
+	Las unidades son un numero par: 2
